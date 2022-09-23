@@ -11,3 +11,5 @@ Popular open source Server Log Analysis Tools
   5. Fluentd
   
 More on the above tools : https://opensource.com/article/19/4/log-analysis-tools
+
+Fields in a real-time server log (around 40): https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/real-time-logs.html
