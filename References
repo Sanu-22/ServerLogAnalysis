@@ -1,0 +1,13 @@
+github reference : https://github.com/sasikumarvenkat/BigStream-2022
+
+Kaggle Sample Dataset with the python code for generating the data:
+https://www.kaggle.com/datasets/vishnu0399/server-logs
+
+Popular open source Server Log Analysis Tools
+  1. Graylog
+  2. Nagiose
+  3. Elastic stack
+  4. LOGalyze
+  5. Fluentd
+  
+More on the above tools : https://opensource.com/article/19/4/log-analysis-tools
